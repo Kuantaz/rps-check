@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Check status
-    runs-on:  "[self-hosted, k8s-runner-prod, ARM64]"
+    runs-on:  "[self-hosted, k8s-runner-prod]"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
