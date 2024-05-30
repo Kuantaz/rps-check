@@ -1,25 +1,7 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "RPS",
-    "url": "https://www.reddeproteccion.cl/",
+    "url": "https://www.reddeproteccion.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.reddeproteccion.cl.ico",
     "slug": "rps",
     "status": "up",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 750,
-    "timeWeek": 750,
-    "timeMonth": 750,
-    "timeYear": 750,
+    "time": 928,
+    "timeDay": 928,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   }
 ]
