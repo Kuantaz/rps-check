@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddeproteccion.cl.ico",
     "slug": "rps",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 913,
-    "timeDay": 913,
-    "timeWeek": 1009,
-    "timeMonth": 934,
-    "timeYear": 913,
+    "uptimeYear": "99.91%",
+    "time": 912,
+    "timeDay": 887,
+    "timeWeek": 1001,
+    "timeMonth": 930,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2024-06-05": 67
     }
