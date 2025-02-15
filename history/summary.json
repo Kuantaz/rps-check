@@ -4,7 +4,7 @@
     "url": "https://www.reddeproteccion.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.reddeproteccion.cl.ico",
     "slug": "rps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 1013,
     "timeYear": 1025,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-08": 23,
       "2025-02-01": 40,
       "2025-01-25": 42,
